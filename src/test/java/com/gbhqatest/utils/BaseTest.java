@@ -28,7 +28,7 @@ public class BaseTest {
     //TO SEE HOW TO IMPLEMENT THIS BASE TEST CLASS SEE THE EXAMPLE IN THE TEST PACKAGE
 
     //CREATE A WEB DRIVER INSTANCE, SO YOU DONT NEED TO CREATE IT IN EVERY TEST CLASS
-    String url = "https://gbhqatest.firebaseapp.com/";//Url for the AUT
+    String url = "https://www.google.com/";//Url for the AUT
     String loggerClass = "";
     protected Logger logger = Logger.getLogger(loggerClass);
     public ExtentHtmlReporter htmlReporter;
