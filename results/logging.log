@@ -1,0 +1,148 @@
+2020-12-18 10:27:47 INFO  ExamplePage:37 - Is working
+2020-12-18 10:33:48 INFO  ExampleTest:32 - Creating Example page Object
+2020-12-18 10:33:48 INFO  ExampleTest:34 - Click Sign In With Google
+2020-12-18 10:33:49 INFO  ExampleTest:36 - Assert that the page is fully loaded
+2020-12-18 10:34:30 FATAL ExampleTest:41 - Unexpected result for screenshot command: null
+2020-12-18 10:35:13 INFO  ExampleTest:28 - Creating Example page Object
+2020-12-18 10:35:13 INFO  ExampleTest:30 - Click Sign In With Google
+2020-12-18 10:35:14 INFO  ExampleTest:32 - Assert that the page is fully loaded
+2020-12-18 10:40:46 INFO  :10 - Waiting
+2020-12-18 10:42:26 INFO  ExampleTest:29 - Creating Example page Object
+2020-12-18 10:42:26 INFO  ExampleTest:31 - Click Sign In With Google
+2020-12-18 10:42:27 INFO  ExampleTest:33 - Assert that the page is fully loaded
+2020-12-18 10:42:36 INFO  SecondExample:12 - Waiting 2 seconds
+2020-12-18 10:51:04 INFO  ExampleTest:29 - Creating Example page Object
+2020-12-18 10:51:04 INFO  ExampleTest:31 - Click Sign In With Google
+2020-12-18 10:51:05 FATAL ExampleTest:38 - El nombre de archivo, el nombre de directorio o la sintaxis de la etiqueta del volumen no son correctos
+2020-12-18 10:52:44 INFO  ExampleTest:29 - Creating Example page Object
+2020-12-18 10:52:44 INFO  ExampleTest:31 - Click Sign In With Google
+2020-12-18 10:52:45 INFO  ExampleTest:33 - Assert that the page is fully loaded
+2020-12-18 10:53:19 INFO  ExampleTest:29 - Creating Example page Object
+2020-12-18 10:53:19 INFO  ExampleTest:31 - Click Sign In With Google
+2020-12-18 10:53:20 INFO  ExampleTest:33 - Assert that the page is fully loaded
+2020-12-18 15:24:28 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 15:24:29 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 15:24:36 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 15:54:36 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 15:54:36 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 15:54:37 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 15:55:08 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 15:55:09 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 15:55:10 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 15:57:34 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 15:57:34 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 15:57:35 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 15:58:29 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 15:58:29 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 15:58:30 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 15:58:40 ERROR ExampleTest:37 - WebDriver Failed: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Iniciar sesió']' (tried for 10 second(s) with 100 milliseconds interval)
+2020-12-18 15:59:21 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 15:59:21 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 15:59:31 ERROR ExampleTest:37 - WebDriver Failed: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //note-ap' (tried for 10 second(s) with 100 milliseconds interval)
+2020-12-18 16:01:30 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 16:01:30 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 16:01:41 ERROR ExampleTest:37 - WebDriver Failed: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //note-ap' (tried for 10 second(s) with 100 milliseconds interval)
+2020-12-18 16:02:47 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 16:02:48 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 16:02:58 ERROR ExampleTest:37 - WebDriver Failed: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //note-ap' (tried for 10 second(s) with 100 milliseconds interval)
+2020-12-18 16:03:03 INFO  SecondExample:13 - Waiting 2 seconds
+2020-12-18 16:03:21 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 16:03:21 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 16:03:31 ERROR ExampleTest:37 - WebDriver Failed: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //note-ap' (tried for 10 second(s) with 100 milliseconds interval)
+2020-12-18 16:03:36 INFO  SecondExample:13 - Waiting 2 seconds
+2020-12-18 16:05:33 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 16:05:33 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 16:05:34 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 16:07:29 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 16:07:29 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 16:07:30 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 16:08:33 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 16:08:33 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 16:08:34 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 16:10:46 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 16:10:46 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 16:10:47 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 16:12:39 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 16:12:39 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 16:12:40 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 16:15:00 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 16:15:00 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 16:15:01 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 16:16:39 INFO  ExampleTest:31 - Creating Example page Object
+2020-12-18 16:16:39 INFO  ExampleTest:33 - Click Sign In With Google
+2020-12-18 16:16:40 INFO  ExampleTest:35 - Assert that the page is fully loaded
+2020-12-18 16:19:03 INFO  ExampleTest:31 - Creating Example page Object
+2020-12-18 16:19:03 INFO  ExampleTest:33 - Click Sign In With Google
+2020-12-18 16:19:04 INFO  ExampleTest:35 - Assert that the page is fully loaded
+2020-12-18 16:21:06 INFO  ExampleTest:31 - Creating Example page Object
+2020-12-18 16:21:06 INFO  ExampleTest:33 - Click Sign In With Google
+2020-12-18 16:21:07 INFO  ExampleTest:35 - Assert that the page is fully loaded
+2020-12-18 17:02:40 INFO  ExampleTest:28 - Creating Example page Object
+2020-12-18 17:02:40 INFO  ExampleTest:30 - Click Sign In With Google
+2020-12-18 17:02:41 INFO  ExampleTest:32 - Assert that the page is fully loaded
+2020-12-18 17:05:01 INFO  ExampleTest:28 - Creating Example page Object
+2020-12-18 17:05:01 INFO  ExampleTest:30 - Click Sign In With Google
+2020-12-18 17:05:02 INFO  ExampleTest:32 - Assert that the page is fully loaded
+2020-12-18 17:07:23 INFO  ExampleTest:28 - Creating Example page Object
+2020-12-18 17:07:23 INFO  ExampleTest:30 - Click Sign In With Google
+2020-12-18 17:07:25 INFO  ExampleTest:32 - Assert that the page is fully loaded
+2020-12-18 17:08:36 INFO  ExampleTest:28 - Creating Example page Object
+2020-12-18 17:08:36 INFO  ExampleTest:30 - Click Sign In With Google
+2020-12-18 17:08:37 INFO  ExampleTest:32 - Assert that the page is fully loaded
+2020-12-18 17:10:05 INFO  ExampleTest:28 - Creating Example page Object
+2020-12-18 17:10:05 INFO  ExampleTest:30 - Click Sign In With Google
+2020-12-18 17:10:06 INFO  ExampleTest:32 - Assert that the page is fully loaded
+2020-12-18 17:10:53 INFO  ExampleTest:28 - Creating Example page Object
+2020-12-18 17:10:53 INFO  ExampleTest:30 - Click Sign In With Google
+2020-12-18 17:10:54 INFO  ExampleTest:32 - Assert that the page is fully loaded
+2020-12-18 17:11:34 INFO  ExampleTest:28 - Creating Example page Object
+2020-12-18 17:11:34 INFO  ExampleTest:30 - Click Sign In With Google
+2020-12-18 17:11:35 INFO  ExampleTest:32 - Assert that the page is fully loaded
+2020-12-18 17:13:04 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 17:13:04 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 17:13:05 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 17:15:29 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 17:15:29 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 17:15:30 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 17:16:19 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 17:16:19 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 17:16:20 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 17:17:37 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 17:17:38 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 17:17:39 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 17:26:59 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 17:26:59 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 17:27:00 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 17:27:57 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 17:27:57 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 17:27:58 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 17:33:44 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 17:33:44 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 17:33:45 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 17:34:32 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 17:34:32 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 17:34:36 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 19:30:34 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 19:30:34 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 19:30:38 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 19:44:52 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 19:44:52 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 19:44:56 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-18 19:46:05 INFO  ExampleTest:30 - Creating Example page Object
+2020-12-18 19:46:05 INFO  ExampleTest:32 - Click Sign In With Google
+2020-12-18 19:46:09 INFO  ExampleTest:34 - Assert that the page is fully loaded
+2020-12-20 18:50:55 INFO  ExampleTest:27 - Creating Example page Object
+2020-12-20 18:50:55 INFO  ExampleTest:29 - Click Sign In With Google
+2020-12-20 18:50:59 INFO  ExampleTest:31 - Assert that the page is fully loaded
+2021-01-06 12:41:14 INFO  ExampleTest:27 - Creating Example page Object
+2021-01-06 12:41:14 INFO  ExampleTest:29 - Click Sign In With Google
+2021-01-06 12:41:18 INFO  ExampleTest:31 - Assert that the page is fully loaded
+2021-01-06 12:54:10 INFO  ExampleTest:27 - Creating Example page Object
+2021-01-06 12:54:10 INFO  ExampleTest:29 - Click Sign In With Google
+2021-01-06 12:54:11 INFO  ExampleTest:31 - Assert that the page is fully loaded
+2021-01-06 12:58:47 INFO  ExampleTest:27 - Creating Example page Object
+2021-01-06 12:58:47 INFO  ExampleTest:29 - Click Sign In With Google
+2021-01-06 12:58:49 INFO  ExampleTest:31 - Assert that the page is fully loaded
+2021-01-06 12:59:50 INFO  ExampleTest:27 - Creating Example page Object
+2021-01-06 12:59:50 INFO  ExampleTest:29 - Click Sign In With Google
+2021-01-06 12:59:53 INFO  ExampleTest:31 - Assert that the page is fully loaded
