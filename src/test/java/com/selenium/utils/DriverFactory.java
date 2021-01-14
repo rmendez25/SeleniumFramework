@@ -1,4 +1,4 @@
-package com.gbhqatest.utils;
+package com.selenium.utils;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebDriverException;

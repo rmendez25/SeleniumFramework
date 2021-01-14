@@ -1,6 +1,6 @@
-package com.gbhqatest.test;
+package com.selenium.test;
 
-import com.gbhqatest.utils.BaseTest;
+import com.selenium.utils.BaseTest;
 import org.testng.annotations.Test;
 
 public class Test1 extends BaseTest {

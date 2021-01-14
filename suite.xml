@@ -2,7 +2,7 @@
 
 <suite name="Suite1" verbose="1" >
     <listeners >
-        <listener class-name="com.gbhqatest.utils.TestListener"/>
+        <listener class-name="com.selenium.utils.TestListener"/>
     </listeners>
     <test name="Test" >
         <classes>

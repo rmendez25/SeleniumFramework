@@ -1,4 +1,4 @@
-package com.gbhqatest.utils;
+package com.selenium.utils;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
