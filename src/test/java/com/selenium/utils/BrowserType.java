@@ -1,4 +1,4 @@
-package com.gbhqatest.utils;
+package com.selenium.utils;
 
 public enum BrowserType {
     CHROME,
